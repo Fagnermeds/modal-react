@@ -14,8 +14,6 @@ $ yarn add react-modal
 
 You can find a simple example in [react-modal](https://github.com/reactjs/react-modal).
 
-
 #### Template 
 
-
-
+![Alt Text]()
