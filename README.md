@@ -16,4 +16,4 @@ You can find a simple example in [react-modal](https://github.com/reactjs/react-
 
 #### Template 
 
-![Alt Text]()
+![Alt Text](https://github.com/Fagnermeds/modal-react/blob/master/modal.gif)
